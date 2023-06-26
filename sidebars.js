@@ -28,6 +28,7 @@ const sidebars = {
         'configuration',
       ],
     },
+      'project',
   ],
 
 
