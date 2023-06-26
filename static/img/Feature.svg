@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="220" height="200" viewBox="0 0 220 200" fill="none"><g opacity="1"  transform="translate(0 0)  rotate(0)"><mask id="bg-mask-0" fill="white"><use xlink:href="#path_0"></use></mask><g mask="url(#bg-mask-0)" ><g opacity="1"  transform="translate(26 24)  rotate(0)"><path id="矩形 1" fill-rule="evenodd" style="fill:#94C6FF" opacity="0.95" d="M18 152L133 152C142.94 152 151 143.94 151 134L151 18C151 8.06 142.94 0 133 0L18 0C8.06 0 0 8.06 0 18L0 134C0 143.94 8.06 152 18 152Z"></path></g><g id="矩形 3" filter="url(#filter_3)"><path id="矩形 3" fill-rule="evenodd" style="fill:#EDEDED" opacity="0.9" d="M46 160L158 160C160.21 160 162 158.21 162 156L162 44C162 41.79 160.21 40 158 40L46 40C43.79 40 42 41.79 42 44L42 156C42 158.21 43.79 160 46 160Z"></path></g><g id="矩形 1" filter="url(#filter_4)"><path id="矩形 1" fill-rule="evenodd" style="fill:#FFC300" opacity="1" d="M74 142L130 142C136.63 142 142 136.63 142 130L142 63C142 56.37 136.63 51 130 51L74 51C67.37 51 62 56.37 62 63L62 130C62 136.63 67.37 142 74 142Z"></path></g></g></g><defs><rect id="path_0" x="0" y="0" width="220" height="200" /><filter id="filter_3" x="38" y="34" width="128" height="132" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feFlood flood-opacity="0" result="feFloodId"/>
+          <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+          
+          <feOffset dx="0" dy="2"/>
+          <feComposite in2="hardAlpha" operator="out"/>
+          <feGaussianBlur stdDeviation="2"/>
+          <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+          <feBlend mode="normal" in2="filter_feFlood" result="filter_feFlood_1"/>
+          <feBlend mode="normal" in="SourceGraphic" in2="filter_3" result="shape"/></filter><filter id="filter_4" x="58" y="45" width="88" height="103" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feFlood flood-opacity="0" result="feFloodId"/>
+          <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+          
+          <feOffset dx="0" dy="2"/>
+          <feComposite in2="hardAlpha" operator="out"/>
+          <feGaussianBlur stdDeviation="2"/>
+          <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+          <feBlend mode="normal" in2="filter_feFlood" result="filter_feFlood_1"/>
+          <feBlend mode="normal" in="SourceGraphic" in2="filter_4" result="shape"/></filter></defs></svg>

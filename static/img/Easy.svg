@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="220" height="200" viewBox="0 0 220 200" fill="none"><g opacity="1"  transform="translate(0 0)  rotate(0)"><mask id="bg-mask-0" fill="white"><use xlink:href="#path_0"></use></mask><g mask="url(#bg-mask-0)" ><g opacity="1"  transform="translate(26 24)  rotate(0)"><path id="矩形 1" fill-rule="evenodd" style="fill:#94C6FF" opacity="0.95" d="M18 152L133 152C142.94 152 151 143.94 151 134L151 18C151 8.06 142.94 0 133 0L18 0C8.06 0 0 8.06 0 18L0 134C0 143.94 8.06 152 18 152Z"></path><g opacity="1"  transform="translate(22 9)  rotate(0)"><g id="矩形 2" filter="url(#filter_4)"><path id="矩形 2" fill-rule="evenodd" style="fill:#FFFFFF" opacity="0.75" d="M12 57L129 57C135.63 57 141 51.63 141 45L141 12C141 5.37 135.63 0 129 0L12 0C5.37 0 0 5.37 0 12L0 45C0 51.63 5.37 57 12 57Z"></path></g><path id="圆形 1" fill-rule="evenodd" style="fill:#EBD726" opacity="1" d="M27.5 11C17.84 11 10 18.84 10 28.5C10 38.16 17.84 46 27.5 46C37.16 46 45 38.16 45 28.5C45 18.84 37.16 11 27.5 11Z"></path><path id="矩形 3" fill-rule="evenodd" style="fill:#F5F5F5" opacity="0.98" d="M57 40L127 40C129.21 40 131 38.21 131 36L131 22C131 19.79 129.21 18 127 18L57 18C54.79 18 53 19.79 53 22L53 36C53 38.21 54.79 40 57 40Z"></path></g><g opacity="1"  transform="translate(22 76)  rotate(0)"><g id="矩形 2" filter="url(#filter_8)"><path id="矩形 2" fill-rule="evenodd" style="fill:#FFFFFF" opacity="0.75" d="M12 57L129 57C135.63 57 141 51.63 141 45L141 12C141 5.37 135.63 0 129 0L12 0C5.37 0 0 5.37 0 12L0 45C0 51.63 5.37 57 12 57Z"></path></g><path id="圆形 1" fill-rule="evenodd" style="fill:#EBD726" opacity="1" d="M27.5 11C17.84 11 10 18.84 10 28.5C10 38.16 17.84 46 27.5 46C37.16 46 45 38.16 45 28.5C45 18.84 37.16 11 27.5 11Z"></path><path id="矩形 3" fill-rule="evenodd" style="fill:#F5F5F5" opacity="0.98" d="M57 40L127 40C129.21 40 131 38.21 131 36L131 22C131 19.79 129.21 18 127 18L57 18C54.79 18 53 19.79 53 22L53 36C53 38.21 54.79 40 57 40Z"></path></g></g></g></g><defs><rect id="path_0" x="0" y="0" width="220" height="200" /><filter id="filter_4" x="-21" y="-33" width="183" height="123" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feFlood flood-opacity="0" result="feFloodId"/>
+          <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+          
+          <feOffset dx="-3" dy="9"/>
+          <feComposite in2="hardAlpha" operator="out"/>
+          <feGaussianBlur stdDeviation="12"/>
+          <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+          <feBlend mode="normal" in2="filter_feFlood" result="filter_feFlood_1"/>
+          <feBlend mode="normal" in="SourceGraphic" in2="filter_4" result="shape"/></filter><filter id="filter_8" x="-21" y="-33" width="183" height="123" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feFlood flood-opacity="0" result="feFloodId"/>
+          <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+          
+          <feOffset dx="-3" dy="9"/>
+          <feComposite in2="hardAlpha" operator="out"/>
+          <feGaussianBlur stdDeviation="12"/>
+          <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+          <feBlend mode="normal" in2="filter_feFlood" result="filter_feFlood_1"/>
+          <feBlend mode="normal" in="SourceGraphic" in2="filter_8" result="shape"/></filter></defs></svg>
